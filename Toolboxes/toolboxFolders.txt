@@ -1,0 +1,7 @@
+polyfitn/PolyfitnTools/demo/html
+polyfitn
+Symbolic Polynomial Manipulation/SymbolicPolynomials
+polyfitn/PolyfitnTools/doc
+polyfitn/PolyfitnTools/demo
+Symbolic Polynomial Manipulation
+polyfitn/PolyfitnTools

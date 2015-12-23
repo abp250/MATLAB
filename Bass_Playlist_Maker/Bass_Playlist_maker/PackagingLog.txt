@@ -1,0 +1,21 @@
+mcc -C -o Bass_Playlist_Maker -W WinMain:Bass_Playlist_Maker -T link:exe -d C:\Users\Aaron\Music\Bass_Playlist_Maker\for_testing -v C:\Users\Aaron\Documents\MATLAB\Bass_Playlist_Maker\Bass_Playlist_maker.m 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "C:\Users\Aaron\Documents\MATLAB\Bass_Playlist_Maker" to
+Compiler path instance.] 
+[] 
+Parsing file "C:\Users\Aaron\Documents\MATLAB\Bass_Playlist_Maker\Bass_Playlist_maker.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 1 temporary MEX authorization files.
+Removing: 'C:\Users\Aaron\AppData\Local\Temp\mathworks_tmp_01cc411733_7364.auth'.
+Generating file "C:\Users\Aaron\Music\Bass_Playlist_Maker\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2015b\toolbox\compiler\Resources\default_icon.ico to C:\Users\Aaron\Music\Bass_Playlist_Maker\for_testing\Bass_Playlist_Maker.exe.
+Attempting to embed the CTF archive into the application C:\Users\Aaron\Music\Bass_Playlist_Maker\for_testing\Bass_Playlist_Maker.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Users\Aaron\Music\Bass_Playlist_Maker\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 36 seconds.

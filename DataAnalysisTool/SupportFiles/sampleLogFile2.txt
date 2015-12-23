@@ -1,0 +1,16 @@
+#
+#**********************************************
+#Custom Header:::::
+#Settings: x y z
+#Constants: 1 2 3
+#Contents will be printed to MATLAB terminal
+#**********************************************
+#
+#▼▼▼▼ - Time must be included for parser to work properly needs to be exactly the following string: 'Time'
+%Time	Header1 Header2	Header3	Header4	b
+&sec    Unit1   Unit2   Unit3   Unit4   b
+1	1	1	100	0	0
+2	1	2	80	.5	-1
+3	1	3	60	1	1
+4	1	4	40	.5	-.5
+5	1	5   20	0	0
